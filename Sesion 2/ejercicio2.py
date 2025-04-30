@@ -8,7 +8,9 @@ def main():
     limite = int(input("Ingrese el numero limite para contar los pares antes de el: "))
     NumPares(limite)
     
+    
 main()
+
 
        
         
